@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 26-11-2023
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -15,15 +15,12 @@
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
-
 ## Output:
+![steps](https://github.com/anu-varshini11/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138969827/2bb08c50-38c2-4053-a633-9295313380cf)
 
-### Name:
-### Register Number:
+
+### Name: M B Anu Varshini
+### Register Number: 23008712
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
